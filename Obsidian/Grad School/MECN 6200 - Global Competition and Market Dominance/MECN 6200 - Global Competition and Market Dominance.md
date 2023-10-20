@@ -4,7 +4,7 @@
 
 ## Week 1
 
-[[Week 1]]
+[[Obsidian/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 1/Week 1]]
 
 Opportunity Cost
 
@@ -16,7 +16,7 @@ Elasticity
 
 ## Week 2
 
-[[Week 2]]
+[[Obsidian/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 2/Week 2]]
 
 GDP
 
@@ -36,7 +36,7 @@ Open Market Operations
 
 ## Week 3
 
-[[Week 3]]
+[[Obsidian/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 3/Week 3]]
 
 Money and Goods in a Single View
 
@@ -56,7 +56,7 @@ Costs
 
 ## Week 4
 
-[[Week 4]]
+[[Obsidian/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 4/Week 4]]
 
 Monopolies
 

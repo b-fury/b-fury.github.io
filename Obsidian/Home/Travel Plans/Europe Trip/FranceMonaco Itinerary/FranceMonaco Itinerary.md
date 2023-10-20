@@ -11,7 +11,7 @@
 |Activity|Date|Location|URL|Notes|
 |---|---|---|---|---|
 |[[Departing Flight]]|September 15, 2021 5:50 PM → September 16, 2021 9:40 AM|BOS, Terminal E(?)||Lufthansa Flight 423 +  <br>Lufthansa Flight 1058|
-|[[Hotel De Paris Monte Carlo]]|September 16, 2021 → September 20, 2021|Place du Casino MC 98000 MONACO|[https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo](https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo)|Exclusive Room w/ Casino View|
+|[[Obsidian/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Hotel De Paris Monte Carlo]]|September 16, 2021 → September 20, 2021|Place du Casino MC 98000 MONACO|[https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo](https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo)|Exclusive Room w/ Casino View|
 |[[Daytrip To Èze]]|September 17, 2021|Rue du Barri, 06360 Èze, France|[https://www.chevredor.com/restaurants-bars/chevre-dor-gourmet-restaurant/](https://www.chevredor.com/restaurants-bars/chevre-dor-gourmet-restaurant/)|Lunch at Chevre D'or|
 |[[Daytrip To Nice]]|September 18, 2021|Nice, France|||
 |[[Daytrip To Cannes]]|September 19, 2021|Cannes, France|||

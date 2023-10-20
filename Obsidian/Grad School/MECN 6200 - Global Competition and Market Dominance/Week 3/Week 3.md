@@ -1,4 +1,4 @@
-[[Discussion Posts]]
+[[Obsidian/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 3/Discussion Posts]]
 
 [https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d8a2b7b-3100-43a0-8ba4-ace0003c1cd5](https://northeastern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d8a2b7b-3100-43a0-8ba4-ace0003c1cd5)
 

@@ -6,7 +6,7 @@ Organize everything in your life in one place.
 
 [[Movie List]]
 
-[[Recipes]]
+[[Obsidian/Home/Recipes/Recipes]]
 
 [[Thanksgiving]]
 

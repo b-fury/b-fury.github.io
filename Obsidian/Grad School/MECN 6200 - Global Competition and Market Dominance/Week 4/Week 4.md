@@ -3,7 +3,7 @@
 
   
 
-[[Grad School/MECN 6200 - Global Competition and Market Dominance/Week 4/Discussion Posts|Discussion Posts]]
+[[Obsidian/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 4/Discussion Posts|Discussion Posts]]
 
 ### Cross Price Elasticity of Demand
 

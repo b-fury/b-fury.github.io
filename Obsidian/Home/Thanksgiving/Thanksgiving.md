@@ -14,4 +14,4 @@ Cooking for 13, adjust recipes accordingly
 
 [[Shopping List]]
 
-[[Home/Thanksgiving/Recipes|Recipes]]
+[[Obsidian/Home/Thanksgiving/Recipes|Recipes]]
