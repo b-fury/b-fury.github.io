@@ -1,0 +1,15 @@
+- [ ] Salt 🧂 
+- [ ] Pepper 🫑 
+- [ ] Salsa 💃🏻 
+- [ ] Siracha 🔥 
+- [ ] Franks 🔥 
+- [ ] Blue cheese dressing 🧀 
+- [ ] Lettuce 🥬 
+- [ ] Two baked potatos 🥔 
+- [ ] Cheddar and parm 🧀 
+- [ ] Scallions 🧅 
+- [ ] Black beans
+- [ ] Sour cream 🥛 
+- [ ] Ground turkey
+- [ ] Taco seasoning
+- [ ] Lerve

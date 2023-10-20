@@ -1,0 +1,3 @@
+- Contact Marty about Rochester install
+- See if measure only can be stored somewhere
+- Try to track down Chris Andrews

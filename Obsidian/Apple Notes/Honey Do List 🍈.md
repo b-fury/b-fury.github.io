@@ -1,0 +1,27 @@
+- [ ] Return shower curtain to UPS
+- [x] Take craft cart out of box
+- [x] Throw away craft cart box 
+- [x] Put craft box together 
+- [ ] Take out moving boxes (chooch and I can help) 
+- [x] Wipe down kitchen counters/stove  
+- [x] Figure out where tree/bike in box can fit back in guest room 
+- [x] Rearrange guest bed if you think it looks to chaotic for a guest 😂
+- [ ] Hang Jessica 
+- [ ] Hang sunflower 
+- [x] Take plastic off guest bathroom plunger 
+- [x] Put shower curtain/liner up in guest room 
+- [x] Reload dishwasher 
+- [x] Empty dishwasher 
+- [x] Take out boxes by trash and big stick from rug 
+- [x] Take out trash 
+- [x] Tidy kitchen 
+- [x] Change guest bed sheet
+- [x] Make guest bed with comforter from living room 
+- [x] Put old quilt on guest bed 
+- [x] Put new grey quilt on master bed 
+- [x] Put pillows on top of white book case on guest bed 
+- [x] Move plants to other window 
+- [x] Put Tessie dog bed in plant window 
+- [x] Tidy living room 
+- [x] Put towel in guest bathroom 
+- [x] Put tools away

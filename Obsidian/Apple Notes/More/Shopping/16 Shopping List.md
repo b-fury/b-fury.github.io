@@ -1,0 +1,14 @@
+- [x] Eggs
+- [x] White Rice
+- [x] Impossible Meat
+- [ ] Kodiak Waffle Mix
+- [ ] Smart Water 
+- [ ] 2 lbs ground Turkey
+- [ ] Chili seasoning
+- [ ] Big bag of Spinach
+- [ ] Rao’s tomato sauce 
+- [ ] 2 Green bell peppers
+- [ ] Onion
+- [ ] Broccoli
+- [ ] Cheese
+- [ ] Bananas

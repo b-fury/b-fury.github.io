@@ -1,0 +1,27 @@
+- [x] Pack kitchen
+- [x] B pack clothes 
+- [x] Pack upstairs Bathroom 
+- [x] Finish with randoms in living room
+- [x] JJ finish bedroom 
+- [x] B pack misc in room 
+- [x] Pack porch stuff 
+- [x] Go through food 
+- [x] JJ update movers list to include paintings 
+- [x] Wrap paintings 🖼 
+- [x] Swap out smart lightbulbs 
+- [x] Return Comcast stuff 
+- [x] Deal with stuff in parking spot 
+- [x] Leave garage clicker 
+- [x] Deal with loft 
+- [x] Take TV off wall 
+- [x] Take down JJ curtains and bars 
+- [x] Finish living room 
+
+- [x] Clean downstairs bathroom 
+- [x] Clean upstairs bathroom 
+- [x] Clean kitchen 
+- [x] Clean JJ room
+- [x] Vacuum Carpet
+- [x] Spot remover on Carpet 
+- [x] Vacuum downstairs 
+- [x] Clean fireplace

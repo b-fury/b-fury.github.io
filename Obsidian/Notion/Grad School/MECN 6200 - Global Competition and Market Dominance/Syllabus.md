@@ -1,0 +1,1 @@
+https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8843655a-6e4d-4fc0-8d1c-4210d635de25/Syllabus_for_MECN6200_31476_Global_Compet_Mkt_Dominance_SEC_04_Spring_2021_VTL--OL.pdf

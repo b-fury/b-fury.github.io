@@ -1,0 +1,32 @@
+JJ
+- [x] Toiletries 
+- [x] Pills
+- [x] Advil
+- [ ] Tums 
+- [x] Sunglasses
+- [x] Glasses 
+- [x] Jewelry
+- [x] Makeup 
+- [x] Computer/ charger 
+- [x] Phone charger 
+- [x] Plane snacks
+- [x] Headphones 
+- [x] Check good will stuff for Ithaca thing 
+- [ ] Check trunk 
+- [x] Check if got email 
+- [ ] Pads 
+
+Brandon 
+- [x] Headphones 
+- [x] Sunglasses
+- [x] Boots
+- [x] Bracelet and/or ring 
+- [x] Gloves 
+- [x] Ithaca beanie 
+- [x] Socks 
+- [x] Boxers
+- [x] Comfy outfit for sleep/Saturday night 
+- [x] Warm outfit for Saturday 
+- [x] Outfit for dinner Friday night 
+- [x] Phone charger 
+- [x] Toiletries

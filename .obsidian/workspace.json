@@ -11,8 +11,12 @@
             "id": "4a47ad92fea158d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,15 +148,51 @@
   },
   "active": "4a47ad92fea158d5",
   "lastOpenFiles": [
-    "_portfolio/project1.md",
-    "index.md",
     "legal.md",
-    "README.md",
-    "_portfolio/project2.md",
-    "assets/img/portfolio/01-thumbnail.jpg",
-    "assets/img/portfolio/01-full.jpg",
-    "assets/img/clients/envato.jpg",
-    "assets/img/clients/designmodo.jpg",
-    "assets/img/clients/creative-market.jpg"
+    "index.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Hotels & Contacts/List/Hotel Lutetia.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Hotels & Contacts/List/Hotel De Paris Monte Carlo.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Stay At Hotel Lutetia.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Return Flight.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Hotel De Paris Monte Carlo.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Fly To Paris.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Departing Flight.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Daytrip To Èze.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Daytrip To Nice.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule/Daytrip To Cannes.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Hotels & Contacts/List",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Schedule",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Packing List.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Hotels & Contacts.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/Hotels & Contacts",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary/FranceMonaco Itinerary.md",
+    "Obsidian/Notion/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 2/Federal Money Policy/Feds Sell Bonds.md",
+    "Obsidian/Notion/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 2/Federal Money Policy/Fed Buys Bonds.md",
+    "Obsidian/Notion/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 2/Federal Money Policy/Action.md",
+    "Obsidian/Notion/Grad School/INTB6212 - Cultural Aspects of International Business/Reflection Paper/Paper/Paper.md",
+    "Obsidian/Notion/Grad School/INTB6212 - Cultural Aspects of International Business/Reflection Paper/Paper/Implementing Strategy, Structure and System.md",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/FranceMonaco Itinerary",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip/Europe Trip.md",
+    "Obsidian/Notion/Home/Thanksgiving/Timeline/Timeline.md",
+    "Obsidian/Notion/Home/Thanksgiving/Timeline/Card 3.md",
+    "Obsidian/Notion/Home/Thanksgiving/Timeline/Card 2.md",
+    "Obsidian/Notion/Home/Thanksgiving/Timeline/Card 1.md",
+    "Obsidian/Notion/Grad School/SCHM6201- Operations and Supply Chain Management/Week 1- Understanding Supply Chain Management and Operations Management/Week 1- Understanding Supply Chain Management and Operations Management.md",
+    "Obsidian/Notion/Grad School/MECN 6200 - Global Competition and Market Dominance/Week 2/Federal Money Policy",
+    "Obsidian/Notion/Grad School/INTB6212 - Cultural Aspects of International Business/Reflection Paper/Paper",
+    "Obsidian/Notion/Home/Travel Plans/Europe Trip",
+    "Obsidian/Notion/Home/Thanksgiving/Timeline",
+    "Obsidian/Notion/Grad School/SCHM6201- Operations and Supply Chain Management/Week 1- Understanding Supply Chain Management and Operations Management",
+    "Obsidian/Notion/Grad School/MGSC6200 Information Analysis/Week 4- Double Regression Report",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 9.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 8.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 7.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 6.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 5.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 4.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 3.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 2.jpeg",
+    "Obsidian/Apple Notes/Apple Notes Attachments/Image 12.jpeg"
   ]
 }

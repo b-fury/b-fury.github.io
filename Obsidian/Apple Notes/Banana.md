@@ -1,0 +1,7 @@
+- [ ] Canola oil
+- [ ] Brown sugar 
+- [ ] That other baking stuff were out of 
+- [x] Sweet potato
+- [x] Broccoli 
+- [x] JJ butter (the red or yellow one) 
+- [x] Crunchy peanut butter

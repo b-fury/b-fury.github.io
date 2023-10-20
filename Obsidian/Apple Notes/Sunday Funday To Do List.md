@@ -1,0 +1,21 @@
+- [x] JJ clean up bedroom
+- [x] JJ clean up guest room
+- [x] JJ clean up master bath
+- [ ] Hug 
+- [x] Clean out fridge 
+- [x] JJ pay bills 
+- [ ] Shop banana republic 
+- [x] STUDENT LOANS??
+- [x] Add toilet paper to holders
+- [x] Brandon go through bedroom bins 
+- [ ] Go through Hallway bins 
+- [x] Move bookshelf?
+- [ ] Make out 
+- [x] Put coffee table together
+- [x] Put bench together 
+- [x] Take out trash 
+- [ ] Hang some stuff 
+- [x] Dishes 
+- [x] Make breakfast 
+- [x] Make love
+- [x] Laundry

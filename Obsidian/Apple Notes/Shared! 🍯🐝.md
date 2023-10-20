@@ -1,0 +1,18 @@
+Whole Foods List 
+- [x] Apples (X3)
+- [ ] Raspberries 
+- [x] Strawberries 
+- [x] Bananas 
+- [x] Avocado (X2)
+- [x] Green beans 
+- [x] Mozzarella Cheese ball (😏)
+- [x] Apple bars 
+- [x] Chicken broth
+- [x] Chick peas (X2)
+- [x] Waffles
+- [x] Rice cakes (lightly salty) -they’re kinda hard to find so don’t worry if you can’t! 
+- [x] Fizzy water (peach or cranberry)
+- [x] Large brown eggs 
+- [ ] PLEASE get anything you want for food (snack now/us to make later. Whatevs) 
+- [ ] Thanks so much again. I really appreciate you and your the best and I love you 
+- [ ] 🍑 (butt not fruit)

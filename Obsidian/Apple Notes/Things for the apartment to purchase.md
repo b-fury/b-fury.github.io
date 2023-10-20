@@ -1,0 +1,22 @@
+- [x] Cup for kitchen stuff 
+- [x] Bathroom cabinet 
+- [x] Bench with storage for under window 
+- [x] Some type of cute storage for guest room 
+- [x] Sonos for surround sound 
+- [ ] Head board 
+- [ ] Guest bath rug 
+- [x] WiFi router
+- [x] Trash can for guest 
+- [x] Cleaner for cast iron 
+- [x] Sink rolly drying rack
+- [x] Shower curtain/liner
+- [x] Guest sign in book 
+- [x] Bench scraper 
+- [x] Toilet brush/plunger 
+- [x] Get Ashley soap 
+- [x] Coffee table 
+- [x] Craft storage 
+- [x] Small table for behind couch to hold speaker 
+- [x] Very long USBC cable 
+- [x] Guest bath shower curtain
+- [x] Guest bath curtain hangers

@@ -1,0 +1,6 @@
+- [ ] Roast other veggies 
+- [ ] Roast sweet potatoes please! 
+- [x] Cole slaw 
+- [x] Hamburger buns/kings Hawaiian roles 
+- [x] Manwitch 
+- [x] Lentils

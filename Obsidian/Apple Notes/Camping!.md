@@ -1,0 +1,49 @@
+- [x] Fan
+- [ ] Extension cord (Andrews suggestion for air mattress inflation)
+- [x] Find European guide book from Brandon’s dad
+- [ ] Pot/pan
+- [ ] Tarp (do we own one?)
+- [x] Baby Wipes
+- [x] Flippity flops
+- [x] Toiletries
+- [x] Bathing Suits
+- [x] Paper towels
+- [x] Cooler
+- [x] Yeti cups and bucket
+- [x] Regular blanket
+- [x] Tent (and rainfly from loft)
+- [x] Air Mattress
+- [x] Beach towels
+- [x] Shower towels 
+- [x] Washcloth 
+- [x] Beach blanket
+- [x] Air mattress
+- [x] Sheets
+- [x] Pillows
+- [x] Pillow cases
+- [x] Beach clam
+- [x] Lights
+- [x] Chairs
+- [x] Sunblock
+
+Wednesday Night:
+- [x] Charge e-readers
+- [x] Download Dune
+- [x] Plan world domination
+- [x] Sexy time
+- [ ] Finish project for school
+- [x] Pack Bags
+- [x] Pack Car
+- [x] Charge battery packs if we have them
+
+Thursday AM:
+- [ ] Water (bottles and gallons)
+- [ ] Ice
+- [ ] Food
+	- [ ] Veggies 
+	- [ ] Other JJ foods (cheese sandwiches?)
+- [ ] Booze
+	- [ ] Beers
+	- [ ] Gin/tequila/bourbon
+	- [ ] Mixers
+	- [ ] Buzzzzzzxx ballllll

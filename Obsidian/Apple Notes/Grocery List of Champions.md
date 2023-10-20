@@ -1,0 +1,47 @@
+- [x] Chips
+- [x] Salsa
+- [x] Cottage cheese 
+- [x] Jarred jalapeño 
+- [x] That green salsa taco stuff 
+- [x] Olives 
+- [x] Blue cheese
+- [x] Waffles
+- [x] Bread 
+- [x] Cottage cheese
+- [x] Yogurt 
+- [x] Oatmeal 
+- [x] Stuff for more of your granola bar like craisain? 
+- [x] Sour cream 
+- [x] Cilantro!
+- [x] Cheese 
+- [x] Sandwich cheese 
+- [x] Carrots
+- [x] Celery 
+- [x] Cauliflower 
+- [x] Buffalo cauliflower sauce? - Franks red hot!
+- [x] Tomato’s 
+- [x] Avocado 
+- [x] Snack Cheese
+- [x] Indian - 
+- [x] Paneer 
+- [x] Spinach 
+- [x] Tikka sauce 
+- [x] Naan - buy more yeast, will make at home!
+- [x] American - 
+- [x] Meatballs 
+- [x] BBQ sauce?
+- [x] Broccoli 
+- [x] Cornbread 
+- [x] JJ meal- 
+- [ ] Tofu/ apricot sauce 
+- [x] Green beans 
+- [x] Couscous 
+- [x] Hash browns
+- [ ] English muffins 
+- [x] Pillsbury pizza dough
+- [x] Pizza Cheese
+- [x] Pizza sauce 
+- [x] Orange juice 
+- [x] Tea?
+
+ **(unknown attachment: com.apple.drawing.2)**

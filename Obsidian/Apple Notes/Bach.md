@@ -1,0 +1,1 @@
+Hip popped out, never like this before. Wasn’t just moving wrong? Had to press it into a surface. Don’t know next move. Obviously pushing too hard. Keeps popping now. Only stairs to location, fuck.

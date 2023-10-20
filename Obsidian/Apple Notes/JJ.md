@@ -1,0 +1,4 @@
+Hey love, you know as well as I do why I am writing this. I made inappropriate comments and actions that made Meredith feel uncomfortable.  
+For that I am truly sorry. 
+The last thing I want is to wrong you, ESPECIALLY by making someone else uncomfortable. The tiniest solace I can find in my soul is that this occurred a while ago, while in a very strange hyper-sexual portion of our relationship. 
+None of that is to say that it should have happened in the first place, nor to take away its impact. I hope that we can get through this, and please know that I have grown a lot in the last year and a half, and can assure you I wouldn’t have done the same thing today.

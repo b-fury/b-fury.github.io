@@ -1,0 +1,2 @@
+- Move to 2 centered holes, make bracket to allow swivel on square tubing 
+- Simple hose clamp mounting

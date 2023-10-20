@@ -1,0 +1,5 @@
+- add indicator to display state
+- safe mode is tank to tank (or spout to spout)
+- Transitional states result in bypass if under pressure
+- End/transit/rest should be tank to tank
+- Turn outlet valve first

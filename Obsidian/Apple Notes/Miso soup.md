@@ -1,0 +1,19 @@
+- [x] Miso soup
+- [x] Miso soup 
+- [x] Checks. Teriyaki 
+- [x] California roll 
+- [x] Shrimp tempura roll 
+- [x] Wellesley maki - brown rice 
+- [x] Crazy roll
+- [x] spicy tuna roll 
+- [x] Spicy tuna roll - brown rice 
+- [x] Spicy Tuna Role 
+- [x] green of the day
+- [x] House salad 
+- [x] House salad 
+- [x] House salad 
+- [x] Edamame 
+- [x] Sweet Potato Roll 
+- [x] Kappa maki
+- [x] Kappa Maki
+137.94?

@@ -1,0 +1,15 @@
+- [x] Scallion 
+- [x] Olive oil 
+- [x] Bananas 
+- [x] Bagels 
+- [x] Cream cheese
+- [x] Pasta 
+- [x] Circle cheese 
+- [x] Apple sauce 
+- [x] Bread
+- [x] Sliced cheese
+- [x] Cereal? 
+- [x] Milk
+- [x] Butter
+- [x] Syrup
+- [x] Ketchup

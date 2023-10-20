@@ -1,0 +1,7 @@
+- [ ] Jordaan 
+- [ ] The nine streets 
+- [x] Walk along canals 
+- [x] Red light district 
+- [x] Moco museum
+- [x] De-Hallen
+- [x] Heineken

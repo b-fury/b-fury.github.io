@@ -1,0 +1,20 @@
+<u>Running Grocery List 🌶</u>
+- [x] Brussel Sprouts 
+- [x] Broccoli
+- [x] Cauliflower 
+- [x] Kale 
+- [x] Avocado 
+- [x] Mushrooms 
+- [x] Baby Carrots
+- [x] Cheese Sticks 
+- [x] Chicken
+- [x] Extra Firm Tofu
+- [x] Some kind of sauce to marinate them in?
+- [x] Eggs
+- [x] 2% milk quart 
+- [x] Baking Soda
+- [x] Wheat Toast
+- [x] Egg beaters 
+- [x] Cheese for egg beaters 
+- [x] Some kind of pasta
+- [x] Candy

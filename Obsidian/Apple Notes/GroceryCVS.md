@@ -1,0 +1,17 @@
+- [ ] Toothbrushes 
+- [ ] Toilet paper 
+
+- [ ] Bagels 
+- [ ] Cream cheese
+- [x] Oat milk 
+- [x] Eggs
+- [ ] Bread
+- [ ] Vegan meatballs 
+- [x] Green beans 
+- [x] Cheese sticks 
+- [x] Stuff for sandwiches (Reuben’s!?)
+- [x] Oranges
+- [x] Raspberry’s 
+- [x] Fizzy water 
+- [ ] Love machines
+- [ ] Hugging kissing things

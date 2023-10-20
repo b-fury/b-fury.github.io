@@ -1,0 +1,26 @@
+- [ ] archery / axe throwing 
+- [x] Banksy exhibit 
+- [ ] Cooking class - virtual maybe on skill share 
+- [ ] Drive - throw dice to decide which direction and we can decide how long we drive and then once we have direction and minutes we go and find food or something cute 
+- [ ] Exhibit! 
+- [x] Fondu! (Brandon’s brilliant idea), hot cheese night 
+- [ ] Guy Fierri restaurant 
+- [ ] Helmet - hitting batting cages or H for hittin golf balls 
+- [ ] Make ice cream and then when we’re waiting for it overnight go get ice cream
+- [ ] Just be - no screens  
+- [ ] Kirby!!! Get new Kirby game and play 
+- [ ] Laser tag 
+- [ ] Mushrooms! ✨
+- [ ] Night at the movies - go to theatre 
+- [ ] Organize - tidy one area of the house together 
+- [ ] Pottery - not painting but making 
+- [ ] Query - trivia night at a bar! 
+- [x] Rankings - random stuff could be bracket or top 5 stuff 
+- [ ] Sample - try food we havnt tried or go to Costco and eat their samples 
+- [ ] T- Rex The Science Museum 
+- [ ] Under the sea - aquarium! 
+- [ ] Velum - sketch night! 
+- [ ] Walk around water. Word!! 
+- [ ] X -whatever excites us 
+- [ ] YUCK!  Try a food we don’t like. Or blindfold each other and play the New Girl Bowl game 
+- [ ] Zazzle!!!! Make each other something on zazzle
