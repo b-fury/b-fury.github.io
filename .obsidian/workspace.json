@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "3a6dad938a3ba3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "061902fe2bf2b3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a47ad92fea158d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5fd80ca2efc65c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff1c1be82ce26e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe6445ad13fd429",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca0ef9358e72de02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28dbf535d7d1d62f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18a64c71ebb7d4b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1dea86b3cf6cb56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a23645b441df17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6a1f88a8d711964",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b730005d1e46a90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42cee43f03729b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a47ad92fea158d5",
+  "lastOpenFiles": [
+    "_portfolio/project1.md",
+    "index.md",
+    "legal.md",
+    "README.md",
+    "_portfolio/project2.md",
+    "assets/img/portfolio/01-thumbnail.jpg",
+    "assets/img/portfolio/01-full.jpg",
+    "assets/img/clients/envato.jpg",
+    "assets/img/clients/designmodo.jpg",
+    "assets/img/clients/creative-market.jpg"
+  ]
+}
